@@ -1,4 +1,4 @@
-# Random Powershell Scripts
+# Random Powershell and Batch Scripts
 I use these scripts at work mostly but also for personal use.
 
 Please remember that by default running scripts on powershell is not on by default
