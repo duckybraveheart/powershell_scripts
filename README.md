@@ -1,7 +1,6 @@
 # Random Powershell and Batch Scripts
-I use these scripts at work mostly but also for personal use.
+I use these scripts for work mostly, but also for personal use. I may or may not udpate.
 
-Please remember that by default running scripts on powershell is not on by default
-you will need to either run one time exclusions or enable scritps to run permenantly.
+Enable scripts to be ran in Powershell before use.
 
-Free to use as needed, this repo is really only for me.
+Free to use as needed.
