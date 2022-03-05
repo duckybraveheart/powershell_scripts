@@ -1,4 +1,5 @@
-@echo off
+echo "Ready, Set, Go!"
+
 powercfg.exe -x -monitor-timeout-ac 0
 powercfg.exe -x -monitor-timeout-dc 0
 powercfg.exe -x -disk-timeout-ac 0
